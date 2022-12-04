@@ -27,3 +27,28 @@ worst case n2
 
 
 shellsort (better insertion sort)
+
+
+
+not the above
+merge sort
+always n log n
+Given two sorted lists we can merge them easily
+▪ Partition out list in two recursively
+▪ Sort if list is of size 1 or 2
+▪ End recursion merging lists
+
+quick sort
+Algorithm:
+▪ Pick a number
+▪ Put all numbers less on the left
+▪ Put all numbers more on the left
+▪ Repeat on the smaller intervals until we are at size 1
+▪ Best case O(n log n)
+▪ Worst case O(n2)
+
+heap sort
+nlogn
+put in heap
+W
+
