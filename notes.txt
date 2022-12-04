@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/1NkGdWNpIXFvNZKFxdHPSR8fguGUMscBL
+
 most sorting algos are n^2 or nlogn
 
 o(n^2)
