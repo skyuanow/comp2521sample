@@ -1,4 +1,5 @@
 https://drive.google.com/drive/folders/1NkGdWNpIXFvNZKFxdHPSR8fguGUMscBL
+https://skyuanow.notion.site/COMP2521-c82563a69c86461db8ed6f0b6a3d7026
 
 most sorting algos are n^2 or nlogn
 
