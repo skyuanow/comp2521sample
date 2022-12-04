@@ -1,0 +1,26 @@
+most sorting algos are n^2 or nlogn
+
+o(n^2)
+selection sort
+- non adaptive method
+- cycles through list and keeps picking the smallest number
+
+will be on2 no matter
+
+bubble sort
+keeps going up in pairs and swapping the pairs
+best case n
+worst case n2
+
+insertion sort
+go through list one by one, insert into new array in order
+best case n
+worst case n2
+
+ To distinguish bubble sort from insertion sort, use arrays which are
+  sorted except that the largest element is at the beginning of the
+  array and the smallest element is at the end. Insertion sort will
+  be O(n), while bubble sort will be O(n^2).
+
+
+shellsort (better insertion sort)
